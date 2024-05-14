@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vikas Yadav</h1>
 <h3 align="center">I'm passionate about cleaning messy data and transforming it into actionable insights. With a solid foundation in SQL, Python, NumPy, and Pandas, I enjoy exploring data sets to uncover meaningful patterns and trends. I believe in leveraging data-driven strategies to make informed decisions and drive business success.</h3>
-<h3 align="center"></h3>
 
 ![Animated GIF](https://blog.drumup.io/wp-content/uploads/2018/02/source.gif)
+
 - 👨‍💻 All of my projects are available at [to be given](to be given)
-
 - 💬 Ask me about **SQL, PYTHON**
-
 - 📫 How to reach me **viky2305yadav@gmail.com**
-
 - 📄 Know about my experiences [to be mentioned](to be mentioned)
 
 <h3 align="left">Connect with me:</h3>
@@ -22,12 +19,11 @@
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftexcel/microsoftexcel-original.svg" alt="excel" width="40" height="40"/></a>
+  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/></a>
 </p>
-
-
 
 
 
