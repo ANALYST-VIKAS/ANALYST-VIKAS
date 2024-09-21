@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [to be given](to be given)
 - 💬 Ask me about **SQL, PYTHON, DATA CLEANING, STATISTICS**
-- 📫 How to reach me **viky2305yadav@gmail.com**
+- 📫 How to reach me **sqlvikas2305@gmail.com**
 - 📄 Know about my experiences [to be mentioned](to be mentioned)
 
 <h3 align="left">Connect with me:</h3>
