@@ -6,7 +6,7 @@
   ![Animated GIF](https://blog.drumup.io/wp-content/uploads/2018/02/source.gif))
 </div>
 
-- 👨‍💻 All of my projects are available at<a href="https://analyst-vikas.github.io/VikasTheanalyst.github.io/"> PORTFOLIO WEBSITE</a></li>
+- 👨‍💻 All of my projects are available at<a href=""> PORTFOLIO WEBSITE</a></li>
 - 💬 Ask me about **SQL, PYTHON, DATA CLEANING, STATISTICS**
 - 📫 How to reach me **sqlvikas2305@gmail.com**
 - 📄 Know about my experiences [to be mentioned]
